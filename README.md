@@ -8,11 +8,11 @@ run the django app and open localhost:8000(check console log)
 
 Then we can pass the following arguements with the address bar -
 
-localhost:8000/insertEmployee/employeeId/firstName/lastName/
-localhost:8000/insertDevice/deviceId/employeeId/
-localhost:8000/updateEmployee/employeeId/firstName/lastName/
-localhost:8000/updateDevice/deviceId/employeeId/
-localhost:8000/deleteEmployee/employeeId/
-localhost:8000/deleteDevice/deviceId/
+localhost:8000/insertEmployee/employeeId/firstName/lastName/  <br />
+localhost:8000/insertDevice/deviceId/employeeId/  <br />
+localhost:8000/updateEmployee/employeeId/firstName/lastName/ <br />
+localhost:8000/updateDevice/deviceId/employeeId/ <br />
+localhost:8000/deleteEmployee/employeeId/  <br />
+localhost:8000/deleteDevice/deviceId/  <br />
 
 To see the changes open admin using localhost:8000/admin and check Employee and Device model
